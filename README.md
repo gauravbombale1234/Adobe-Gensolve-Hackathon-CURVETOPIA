@@ -12,6 +12,13 @@ Welcome to **Curvetopia**! This project is dedicated to the exploration, identif
 ### Problem Description
 The primary challenge is to take a polyline representation of line art and convert it into a set of connected cubic Bézier curves. We aim to regularize these curves, identify any symmetry present, and complete any incomplete shapes. The final output should be a set of well-defined and smooth curves in SVG format, ready for visualization.
 
+## Project Structure
+
+- `problems`: Folder containing the test case files
+- `Curvetopia.pdf`: PDF file containing the problem statement for the hackathon.
+- `Regularization_Symmetry_Solution_2.ipynb`: Jupyter notebook with code for regularization and symmetry analysis.
+- `Curve_Completion_Solution_1.ipynb`: Jupyter notebook with code for curve completion (occlusion handling).
+
 ### Key Features
 1. **Regularize Curves**:
    - Recognize and regularize simple geometric shapes from a set of curves.
