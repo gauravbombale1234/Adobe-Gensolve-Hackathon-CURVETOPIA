@@ -18,6 +18,7 @@ The primary challenge is to take a polyline representation of line art and conve
 - `Curvetopia.pdf`: PDF file containing the problem statement for the hackathon.
 - `Regularization_Symmetry_Solution_2.ipynb`: Jupyter notebook with code for regularization and symmetry analysis.
 - `Curve_Completion_Solution_1.ipynb`: Jupyter notebook with code for curve completion (occlusion handling).
+- `Adobe_Hackathon.ipynb`: Temporary Solution.
 
 ### Key Features
 1. **Regularize Curves**:
